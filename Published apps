@@ -1,0 +1,50 @@
+# My Apps Portfolio
+
+This repository showcases enterprise mobile applications developed as part of professional projects.
+
+---
+
+# 1. HRMS Application
+
+A Human Resource Management System designed to simplify employee operations and internal company workflows.
+
+## Features
+- Employee Dashboard
+- Leave Management
+- Holiday Calendar
+- Attendance Management
+- Attendance Regularization
+- Notifications & Alerts
+- Technical Support Module
+- Employee Profile Management
+
+## Tech Stack
+- Flutter
+- REST APIs
+- Backend Integration
+
+---
+
+# 2. Transport Management System
+
+A Flutter-based transport and logistics management application used to manage and track delivery operations.
+
+## Features
+- Trip Creation
+- Driver Assignment
+- Trip Status Tracking
+- Delivery Workflow Monitoring
+- Real-Time Updates
+- Transport Execution Tracking
+- Delivery Confirmation
+
+## Tech Stack
+- Flutter
+- API Integration
+- Real-Time Data Tracking
+
+---
+
+# Note
+
+The source code is not included because these applications were developed for company/internal business use.
