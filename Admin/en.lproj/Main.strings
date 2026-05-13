@@ -1,0 +1,423 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0tK-6r-bYi"; */
+"0tK-6r-bYi.text" = "Label";
+
+/* Class = "UILabel"; text = "Select Document"; ObjectID = "1ND-8K-vAg"; */
+"1ND-8K-vAg.text" = "Select Document";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "1qY-R4-Aga"; */
+"1qY-R4-Aga.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Sumnit"; ObjectID = "1qY-R4-Aga"; */
+"1qY-R4-Aga.normalTitle" = "Sumnit";
+
+/* Class = "UILabel"; text = "Keabis Tech Private Limited"; ObjectID = "2p5-9J-Wy9"; */
+"2p5-9J-Wy9.text" = "Keabis Tech Private Limited";
+
+/* Class = "UIButton"; configuration.title = "NEXT"; ObjectID = "3FC-Ly-PDE"; */
+"3FC-Ly-PDE.configuration.title" = "NEXT";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3FC-Ly-PDE"; */
+"3FC-Ly-PDE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3MG-9T-HdG"; */
+"3MG-9T-HdG.text" = "Label";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "3RM-EE-1tG"; */
+"3RM-EE-1tG.text" = "Destination";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "42k-XY-xoV"; */
+"42k-XY-xoV.text" = "0";
+
+/* Class = "UILabel"; text = "Remark"; ObjectID = "4S2-7B-8vZ"; */
+"4S2-7B-8vZ.text" = "Remark";
+
+/* Class = "UILabel"; text = "Login to Your account"; ObjectID = "57J-dg-f6s"; */
+"57J-dg-f6s.text" = "Login to Your account";
+
+/* Class = "UILabel"; text = "Remark"; ObjectID = "5Db-xe-J6g"; */
+"5Db-xe-J6g.text" = "Remark";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5fX-Rl-HNj"; */
+"5fX-Rl-HNj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5hG-c4-ttw"; */
+"5hG-c4-ttw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5ls-GL-ZC4"; */
+"5ls-GL-ZC4.text" = "Label";
+
+/* Class = "UILabel"; text = "DashBoard Keabis"; ObjectID = "5yI-7C-ak5"; */
+"5yI-7C-ak5.text" = "DashBoard Keabis";
+
+/* Class = "UILabel"; text = "Hello!"; ObjectID = "69b-xT-Man"; */
+"69b-xT-Man.text" = "Hello!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6Sn-hw-oNf"; */
+"6Sn-hw-oNf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6k8-pF-hHP"; */
+"6k8-pF-hHP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7dX-fG-cPG"; */
+"7dX-fG-cPG.text" = "Label";
+
+/* Class = "UISwitch"; title = "torch"; ObjectID = "8BG-De-ZGI"; */
+"8BG-De-ZGI.title" = "torch";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "8SR-Xy-R89"; */
+"8SR-Xy-R89.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8co-sy-hzK"; */
+"8co-sy-hzK.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Select Document"; ObjectID = "8te-Rh-1mq"; */
+"8te-Rh-1mq.placeholder" = "Select Document";
+
+/* Class = "UILabel"; text = "Wellcome Admin"; ObjectID = "A1L-WK-bTu"; */
+"A1L-WK-bTu.text" = "Wellcome Admin";
+
+/* Class = "UITextField"; placeholder = "Enter your Password"; ObjectID = "A7w-IN-byF"; */
+"A7w-IN-byF.placeholder" = "Enter your Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Azn-Od-XRH"; */
+"Azn-Od-XRH.text" = "Label";
+
+/* Class = "UILabel"; text = "Header"; ObjectID = "BGt-mg-yHk"; */
+"BGt-mg-yHk.text" = "Header";
+
+/* Class = "UILabel"; text = "hello"; ObjectID = "Bhu-Ly-aI6"; */
+"Bhu-Ly-aI6.text" = "hello";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ETa-XM-QjR"; */
+"ETa-XM-QjR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Etc-Py-hLS"; */
+"Etc-Py-hLS.text" = "Label";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "FpF-O6-zgc"; */
+"FpF-O6-zgc.text" = "Duration";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "HtT-GU-vw4"; */
+"HtT-GU-vw4.text" = "-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IR1-Lc-YeB"; */
+"IR1-Lc-YeB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IXl-AZ-fCa"; */
+"IXl-AZ-fCa.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Iq0-3T-pNB"; */
+"Iq0-3T-pNB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JZo-4b-EOt"; */
+"JZo-4b-EOt.text" = "Label";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "JmI-j6-g0W"; */
+"JmI-j6-g0W.text" = "Distance";
+
+/* Class = "UINavigationItem"; title = "QRScanner"; ObjectID = "L9U-5g-mYa"; */
+"L9U-5g-mYa.title" = "QRScanner";
+
+/* Class = "UIButton"; configuration.title = "Map Item"; ObjectID = "Ld2-SS-rxO"; */
+"Ld2-SS-rxO.configuration.title" = "Map Item";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ld2-SS-rxO"; */
+"Ld2-SS-rxO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MN2-cE-3lb"; */
+"MN2-cE-3lb.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MVw-DN-Bmt"; */
+"MVw-DN-Bmt.text" = "Label";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "MWf-eM-zpP"; */
+"MWf-eM-zpP.text" = "Data";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "Nxq-0s-NTd"; */
+"Nxq-0s-NTd.text" = "Data";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ORM-6D-bk3"; */
+"ORM-6D-bk3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "product Name: "; ObjectID = "POp-Ua-cyL"; */
+"POp-Ua-cyL.text" = "product Name: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PXo-Dq-zls"; */
+"PXo-Dq-zls.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PgH-SC-fet"; */
+"PgH-SC-fet.text" = "Label";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "RGv-wa-RBr"; */
+"RGv-wa-RBr.text" = "Notification";
+
+/* Class = "UILabel"; text = "Header"; ObjectID = "S0G-xF-dMx"; */
+"S0G-xF-dMx.text" = "Header";
+
+/* Class = "UILabel"; text = "Arrival"; ObjectID = "S1E-m7-11z"; */
+"S1E-m7-11z.text" = "Arrival";
+
+/* Class = "UILabel"; text = "Live Location"; ObjectID = "T4S-nk-cp3"; */
+"T4S-nk-cp3.text" = "Live Location";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T92-xj-6YK"; */
+"T92-xj-6YK.text" = "Label";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "TGX-gn-lzX"; */
+"TGX-gn-lzX.text" = "Notification";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Unn-E3-i3Y"; */
+"Unn-E3-i3Y.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Hader"; ObjectID = "Uuy-jI-MJF"; */
+"Uuy-jI-MJF.text" = "Hader";
+
+/* Class = "UILabel"; text = "Option one goes here"; ObjectID = "VGL-hH-nQr"; */
+"VGL-hH-nQr.text" = "Option one goes here";
+
+/* Class = "UILabel"; text = "Header"; ObjectID = "Ve2-vt-5zK"; */
+"Ve2-vt-5zK.text" = "Header";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W1G-bP-hw4"; */
+"W1G-bP-hw4.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter your Username"; ObjectID = "WTH-B5-lwh"; */
+"WTH-B5-lwh.placeholder" = "Enter your Username";
+
+/* Class = "UILabel"; text = "Quantity: "; ObjectID = "XTP-ec-Btx"; */
+"XTP-ec-Btx.text" = "Quantity: ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Xch-JI-pdc"; */
+"Xch-JI-pdc.text" = "0";
+
+/* Class = "UILabel"; text = "Header"; ObjectID = "Xyh-Mh-8HZ"; */
+"Xyh-Mh-8HZ.text" = "Header";
+
+/* Class = "UILabel"; text = "Duration(Min)"; ObjectID = "YER-Hx-UyZ"; */
+"YER-Hx-UyZ.text" = "Duration(Min)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YSq-Vt-Cg5"; */
+"YSq-Vt-Cg5.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Yit-wH-3Tj"; */
+"Yit-wH-3Tj.text" = "0";
+
+/* Class = "UILabel"; text = "Live Location"; ObjectID = "ZBw-iT-m2j"; */
+"ZBw-iT-m2j.text" = "Live Location";
+
+/* Class = "UILabel"; text = "parcel Type:"; ObjectID = "Zp6-Nr-ngp"; */
+"Zp6-Nr-ngp.text" = "parcel Type:";
+
+/* Class = "UILabel"; text = "Ongoing"; ObjectID = "a7k-cx-omk"; */
+"a7k-cx-omk.text" = "Ongoing";
+
+/* Class = "UILabel"; text = "Source"; ObjectID = "aZV-wf-uDs"; */
+"aZV-wf-uDs.text" = "Source";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "awN-Ki-vPm"; */
+"awN-Ki-vPm.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "awN-Ki-vPm"; */
+"awN-Ki-vPm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Customer"; ObjectID = "bp2-yB-AIk"; */
+"bp2-yB-AIk.text" = "Customer";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "cMZ-8t-bgF"; */
+"cMZ-8t-bgF.text" = "Data";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "chM-aY-gkY"; */
+"chM-aY-gkY.text" = "Label";
+
+/* Class = "UILabel"; text = "Data By Menu Id"; ObjectID = "dbn-G8-aB1"; */
+"dbn-G8-aB1.text" = "Data By Menu Id";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ddv-91-I2t"; */
+"ddv-91-I2t.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dik-E3-VG1"; */
+"dik-E3-VG1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Refresh"; ObjectID = "e3P-bT-eim"; */
+"e3P-bT-eim.normalTitle" = "Refresh";
+
+/* Class = "UILabel"; text = "Total Customers"; ObjectID = "eD0-04-rB2"; */
+"eD0-04-rB2.text" = "Total Customers";
+
+/* Class = "UILabel"; text = "Please Select Status"; ObjectID = "eMU-n0-Urt"; */
+"eMU-n0-Urt.text" = "Please Select Status";
+
+/* Class = "UIButton"; configuration.title = "forgot your password?"; ObjectID = "eaI-aH-dxN"; */
+"eaI-aH-dxN.configuration.title" = "forgot your password?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eaI-aH-dxN"; */
+"eaI-aH-dxN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "eiC-Rz-wR8"; */
+"eiC-Rz-wR8.text" = "0";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "etF-Tf-hrw"; */
+"etF-Tf-hrw.text" = "Data";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ewa-Hc-xfC"; */
+"ewa-Hc-xfC.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fc3-Ps-a82"; */
+"fc3-Ps-a82.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fof-dk-gDZ"; */
+"fof-dk-gDZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Document"; ObjectID = "gGE-DY-0ka"; */
+"gGE-DY-0ka.text" = "Document";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hxW-rX-hDB"; */
+"hxW-rX-hDB.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "iEO-1A-Su4"; */
+"iEO-1A-Su4.text" = "0";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "iQ8-gK-lE8"; */
+"iQ8-gK-lE8.text" = "-";
+
+/* Class = "UILabel"; text = "Mapped QR Code:"; ObjectID = "iRz-WE-bdz"; */
+"iRz-WE-bdz.text" = "Mapped QR Code:";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "io8-jp-7wN"; */
+"io8-jp-7wN.text" = "Data";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jVZ-Pz-yyL"; */
+"jVZ-Pz-yyL.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kbv-Pk-aDW"; */
+"kbv-Pk-aDW.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "UPDATE"; ObjectID = "keC-fq-Znq"; */
+"keC-fq-Znq.normalTitle" = "UPDATE";
+
+/* Class = "UIButton"; normalTitle = "Click here to select "; ObjectID = "lCR-uT-fGR"; */
+"lCR-uT-fGR.normalTitle" = "Click here to select ";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "lJW-Cr-6vr"; */
+"lJW-Cr-6vr.text" = "Data";
+
+/* Class = "UILabel"; text = "parcel Type:"; ObjectID = "lZ6-so-ZPx"; */
+"lZ6-so-ZPx.text" = "parcel Type:";
+
+/* Class = "UILabel"; text = "Hi"; ObjectID = "lbI-CE-EEF"; */
+"lbI-CE-EEF.text" = "Hi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mCg-tO-5L2"; */
+"mCg-tO-5L2.text" = "Label";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "mLE-eF-vxj"; */
+"mLE-eF-vxj.text" = "Notification";
+
+/* Class = "UIButton"; configuration.title = "Signup"; ObjectID = "mdn-uj-FdW"; */
+"mdn-uj-FdW.configuration.title" = "Signup";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mdn-uj-FdW"; */
+"mdn-uj-FdW.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "mgo-t4-cX5"; */
+"mgo-t4-cX5.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mv2-Ex-hZn"; */
+"mv2-Ex-hZn.text" = "Label";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "nAv-JJ-rPn"; */
+"nAv-JJ-rPn.text" = "Pending";
+
+/* Class = "UILabel"; text = "Upload Document"; ObjectID = "npq-C4-eJF"; */
+"npq-C4-eJF.text" = "Upload Document";
+
+/* Class = "UILabel"; text = "Header"; ObjectID = "o5s-46-0ht"; */
+"o5s-46-0ht.text" = "Header";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "oY0-Y1-bqY"; */
+"oY0-Y1-bqY.text" = "Data";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "p4o-cM-nas"; */
+"p4o-cM-nas.text" = "Data";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "pCE-MW-em5"; */
+"pCE-MW-em5.configuration.title" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pCE-MW-em5"; */
+"pCE-MW-em5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "pbm-jw-wct"; */
+"pbm-jw-wct.text" = "Notification";
+
+/* Class = "UILabel"; text = "Header"; ObjectID = "pbr-nD-dVd"; */
+"pbr-nD-dVd.text" = "Header";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "qpm-SD-byv"; */
+"qpm-SD-byv.text" = "Completed";
+
+/* Class = "UILabel"; text = "0 "; ObjectID = "sVJ-1f-WpP"; */
+"sVJ-1f-WpP.text" = "0 ";
+
+/* Class = "UILabel"; text = "Scan Barcode/QR code"; ObjectID = "tRo-ku-vnQ"; */
+"tRo-ku-vnQ.text" = "Scan Barcode/QR code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tmN-FF-nCD"; */
+"tmN-FF-nCD.text" = "Label";
+
+/* Class = "UILabel"; text = "On/Off Flashlight"; ObjectID = "tyB-2K-Col"; */
+"tyB-2K-Col.text" = "On/Off Flashlight";
+
+/* Class = "UILabel"; text = "Place the code within the window to scan. The Scan will start automatically"; ObjectID = "u52-kz-4Yi"; */
+"u52-kz-4Yi.text" = "Place the code within the window to scan. The Scan will start automatically";
+
+/* Class = "UILabel"; text = "Customer Name:"; ObjectID = "uKC-Wc-4D9"; */
+"uKC-Wc-4D9.text" = "Customer Name:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vk7-Xa-rge"; */
+"vk7-Xa-rge.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "vnn-bl-cxU"; */
+"vnn-bl-cxU.text" = "0";
+
+/* Class = "UILabel"; text = "product Name: "; ObjectID = "wil-E9-rOv"; */
+"wil-E9-rOv.text" = "product Name: ";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "wmv-ME-RcC"; */
+"wmv-ME-RcC.text" = "Select Location";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xhz-cg-eRd"; */
+"xhz-cg-eRd.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "xjn-kL-6MV"; */
+"xjn-kL-6MV.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xjn-kL-6MV"; */
+"xjn-kL-6MV.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xvY-GR-ZEM"; */
+"xvY-GR-ZEM.text" = "Label";
+
+/* Class = "UILabel"; text = "Distance(KM)"; ObjectID = "yIl-uI-QN7"; */
+"yIl-uI-QN7.text" = "Distance(KM)";
+
+/* Class = "UILabel"; text = "Hader"; ObjectID = "ymS-An-5ET"; */
+"ymS-An-5ET.text" = "Hader";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yxX-tU-ass"; */
+"yxX-tU-ass.text" = "Label";
+
+/* Class = "UISegmentedControl"; zOx-mX-pIt.segmentTitles[0] = "Pending"; ObjectID = "zOx-mX-pIt"; */
+"zOx-mX-pIt.segmentTitles[0]" = "Pending";
+
+/* Class = "UISegmentedControl"; zOx-mX-pIt.segmentTitles[1] = "Completed"; ObjectID = "zOx-mX-pIt"; */
+"zOx-mX-pIt.segmentTitles[1]" = "Completed";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zRu-Po-W7S"; */
+"zRu-Po-W7S.text" = "Label";
+
+/* Class = "UILabel"; text = "Please Select "; ObjectID = "zXe-zm-WyW"; */
+"zXe-zm-WyW.text" = "Please Select ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zdL-PI-7iL"; */
+"zdL-PI-7iL.text" = "Label";
